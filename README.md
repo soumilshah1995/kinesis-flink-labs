@@ -8,6 +8,12 @@
 # Steps 
 ### Step 1: Create kinesis Streams 
 ### step 2: upload the jar provided in github repo to S3
+```
+https://repo1.maven.org/maven2/org/apache/flink/flink-s3-fs-hadoop/1.13.2/flink-s3-fs-hadoop-1.13.2.jar
+
+
+```
+
 ### step 3: Head over to Kinesis Data Analytics and create a Notebook and upload the jar files while creating notebook 
 
 ### step 4 : execute sql commands 
