@@ -8,9 +8,11 @@
 # Steps 
 ### Step 1: Create kinesis Streams 
 ### step 2: upload the jar provided in github repo to S3
+
+#### Download links 
 ```
 https://repo1.maven.org/maven2/org/apache/flink/flink-s3-fs-hadoop/1.13.2/flink-s3-fs-hadoop-1.13.2.jar
-
+https://repo1.maven.org/maven2/org/apache/flink/flink-s3-fs-hadoop/1.13.0/flink-s3-fs-hadoop-1.13.0.jar
 
 ```
 
