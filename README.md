@@ -1,5 +1,8 @@
 # Build Real Time Streaming Pipeline with Apache Hudi Kinesis and Flink 
 
+#### Videos 
+* https://www.youtube.com/watch?v=8XS8egfrS_o&t=148s
+
 
 <img width="725" alt="1" src="https://user-images.githubusercontent.com/39345855/212204944-af76dbb6-b9d8-4d23-885a-86965c8c4777.PNG">
 
